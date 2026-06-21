@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .env
+venue_details.json
+marketing_report.md
