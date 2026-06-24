@@ -4,5 +4,6 @@ __pycache__/
 .env
 venue_details.json
 marketing_report.md
+fake_resume.md
 tailored_resume.md
 interview_materials.md
